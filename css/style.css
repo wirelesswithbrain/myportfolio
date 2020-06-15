@@ -24,6 +24,7 @@
 
 #profile
 {
+    width: 300px;
     margin-top: -150px;
     border-radius: 100%;
     border: 3px grey solid;
